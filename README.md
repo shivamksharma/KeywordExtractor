@@ -1,6 +1,6 @@
 # Keyword Extractor
 
-This project draws inspiration from the 2007 movie "**Live Free or Die Hard**" where hackers intercept various communication signals like radio, phone calls, etc., to track down specific names swiftly, such as Matt Farrell or John McClane.
+This project draws inspiration from the 2007 movie **Live Free or Die Hard** where hackers intercept various communication signals like radio, phone calls, etc., to track down specific names swiftly, such as **Matt Farrell** or **John McClane**.
 
 ## Overview
 
