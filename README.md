@@ -1,7 +1,3 @@
-Here’s the **updated `README.md`** file that combines the previous content with the new features and improvements:
-
----
-
 # Keyword Extractor
 
 This project draws inspiration from the 2007 movie **Live Free or Die Hard** where hackers intercept various communication signals like radio, phone calls, etc., to track down specific names swiftly, such as **Matt Farrell** or **John McClane**.
