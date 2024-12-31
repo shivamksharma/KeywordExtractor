@@ -46,7 +46,7 @@ To install and run the Keyword Extractor:
 
 Run the script:
 ```bash
-python audio_text_analyzer.py
+python main.py
 ```
 
 ### **Modes**
