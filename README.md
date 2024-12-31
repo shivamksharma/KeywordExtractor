@@ -2,10 +2,6 @@
 
 This project draws inspiration from the 2007 movie **Live Free or Die Hard** where hackers intercept various communication signals like radio, phone calls, etc., to track down specific names swiftly, such as **Matt Farrell** or **John McClane**.
 
----
-
-## Overview
-
 The Keyword Extractor is a tool designed to scan and analyze various communication channels for specific keywords or phrases, mimicking the concept seen in the movie. It aims to efficiently parse and extract relevant information containing predefined keywords, allowing quick identification and response.
 
 ---
